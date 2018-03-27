@@ -1,3 +1,5 @@
+# https://www.codechef.com/problems/INTEST
+
 n, k = gets.chomp.split(" ").collect{|e| e.to_i}
 counter = 0
 (0..n-1).each do |i|
